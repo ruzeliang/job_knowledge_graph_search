@@ -35,5 +35,5 @@ http://localhost:6397/
 
 ### 4. input the job name for search
 
-<img src="search%20term.png" width="50">
+<img src="search%20term.png" width="500">
 
