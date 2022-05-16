@@ -37,3 +37,12 @@ http://localhost:6397/
 
 <img src="search%20term.png" width="500">
 
+
+### 5. click "Excute" and go to the result knowledge graph interface to see the result
+
+http://localhost:6944/browser/
+
+
+
+<img src="kg%20result.png" width="800">
+
