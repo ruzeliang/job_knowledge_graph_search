@@ -27,3 +27,13 @@ ruzeliang/job_knowledge_graph:1.0.1
 wait until you seel the following
 
 <img src="start%20service.png" width="600">
+
+
+### 3. open the search input interface by 
+
+http://localhost:6397/
+
+### 4. input the job name for search
+
+<img src="search%20term.png" width="50">
+
