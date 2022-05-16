@@ -26,3 +26,4 @@ ruzeliang/job_knowledge_graph:1.0.1
 
 wait until you seel the following
 
+<img src="start%20service.png" width="600">
